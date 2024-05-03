@@ -5,7 +5,8 @@ let anything: any;
 
 anything = 'hello';
 anything = true;
-(anything as string)
+(anything as string);
+(anything as number);
 
 const kgToGm = (value: string | number): string | number | undefined => {
     if(typeof value === 'number'){
