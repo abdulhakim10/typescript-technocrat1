@@ -8,7 +8,7 @@ class Animal {
     // sound: string;
 
     // constructor function
-    constructor(public name: string, public species: string, public sound: string) { //parameter properties
+    constructor(public name: string, public species: string, public sound: string) { //paramert
         // this.name = name;
         // this.species = species;
         // this.sound = sound;
